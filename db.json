@@ -1,0 +1,21 @@
+{
+  "themes": [
+    {
+      "name": "More-U-Theme",
+      "description": "xxx",
+      "displayName": "More-U",
+      "parents": "None"
+    },
+    {
+      "name": "USU-Theme",
+      "description": "xxx",
+      "displayName": "USU",
+      "parents": "None"
+    }, {
+      "name": "Default",
+      "description": "xxx",
+      "displayName": "default",
+      "parents": "None"
+    }
+  ]
+}
